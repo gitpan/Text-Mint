@@ -1,0 +1,13 @@
+Changes
+MANIFEST
+META.yml # Will be created by "make dist"
+Makefile.PL
+README
+lib/Text/Mint.pm
+lib/Text/Mint/Tokenizer.pm
+t/00.load.t
+t/01.tokenize.t
+t/pod-coverage.t
+t/pod.t
+t/token_test1
+t/token_test2

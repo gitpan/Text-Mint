@@ -1,0 +1,5 @@
+[[x a:'foo bar']]
+
+[[y b:baz
+    c:quux
+           ]]
